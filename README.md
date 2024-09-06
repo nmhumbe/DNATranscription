@@ -29,7 +29,6 @@ To run the script, you need to provide two input files: one containing the DNA s
 - [X] Generate the reverse complement and translate.
 - [ ] Improve error handling for invalid input files.
 - [ ] Add support for RNA sequences.
-- [ ] Include visualization of translated sequences.
 
 ## Contributing
 ### Installation
