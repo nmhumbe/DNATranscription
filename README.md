@@ -5,7 +5,7 @@
 ## About this Project
 
 ### Description/Motivation
-This Python project was done under a Computational and System Biology Research class. The project translates DNA sequences into corresponding amino acid sequences using a provided codon conversion key. It also generates the reverse complement of the input DNA sequence and translates it as well. The project supports reading multiple reading frames and ensures that the amino acid sequences are extracted between start and stop codons.
+This Python project was a part of the Computational and System Biology Research class. The script translates DNA sequences into corresponding amino acid sequences using a provided codon conversion key. It also generates the reverse complement of the input DNA sequence and translates it as well. The project supports reading multiple reading frames and ensures that the amino acid sequences are extracted between start and stop codons.
 
 ### How to Use
 To run the script, you need to provide two input files: one containing the DNA sequence and another containing the codon-to-amino-acid mapping.
@@ -57,7 +57,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neha Humbe - nehahumbe@g.ucla.edu
 
-Project Link: [https://github.com/nmhumbe/DNATranslation)
+Project Link: https://github.com/nmhumbe/DNATranslation
 
 
 <!-- ACKNOWLEDGMENTS -->
