@@ -11,7 +11,7 @@ This Python project was a part of the Computational and System Biology Research 
 To run the script, you need to provide two input files: one containing the DNA sequence and another containing the codon-to-amino-acid mapping.
 1. Clone this repository
    ```sh
-   git clone https://github.com/nmhumbe/dna-sequence-translator.git
+   git clone https://github.com/nmhumbe/DNATranslation
    ```
 2. Prepare your input files:
    - **DNA Sequence File:** This should contain the raw DNA sequence in FASTA format (e.g., .txt file).
@@ -35,7 +35,7 @@ To run the script, you need to provide two input files: one containing the DNA s
 1. Ensure you have Python 3.x installed.
 2. Clone the repository:
    ```sh
-   git clone https://github.com/nmhumbe/dna-sequence-translator.git
+   git clone https://github.com/nmhumbe/DNATranslation
    ```
 ### Guidelines
 Contributions are **welcome!** Feel free to fork the repository and submit a pull request. If you find any issues or have ideas for improvements, please open an issue with the tag "enhancement."
