@@ -16,6 +16,7 @@ To run the script, you need to provide two input files: one containing the DNA s
 2. Prepare your input files:
    - **DNA Sequence File:** This should contain the raw DNA sequence in FASTA format (e.g., .txt file).
    - **Codon Key File:** A text file mapping each codon to its respective amino acid.
+     
 3. Run the script:
    ```sh
    python translation.py dna-sequence.txt codon-table.txt
@@ -56,19 +57,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Neha Humbe - nehahumbe@g.ucla.edu
 
-Project Link: [https://github.com/nmhumbe/dna-sequence-translator]
+Project Link: [https://github.com/nmhumbe/DNATranslation)
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 * [FASTA format](https://en.wikipedia.org/wiki/FASTA_format)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
-   
-[JavaScript_Logo]: https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
-[HTML_Logo]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
-[CSS_Logo]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
-[Chrome_Logo]: https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white
-[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[Chrome-url]: https://developer.chrome.com/docs/extensions/get-started
+  
