@@ -54,7 +54,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Neha Humbe - nehahumbe@g.ucla.edu
+Neha Humbe - nehahumbe@ucla.edu
 
 Project Link: https://github.com/nmhumbe/DNATranslation
 
